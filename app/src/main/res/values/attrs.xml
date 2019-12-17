@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TextTextView">
+        <attr name="textTextViewText1Style" format="reference"/>
+        <attr name="textTextViewText2Style" format="reference"/>
+    </declare-styleable>
+</resources>
